@@ -1,1 +1,2 @@
 # Flight-Inquiry-System
+• “Flight Inquiry System“ is an user-friendly web application built using Node.js . This system is designed to facilitate efficient and accurate flight inquiries, providing users with access to comprehensive flight information. • Flight companies can provide up-to-date and accurate flight-related information, ensuring that users receive real-time details about flight schedules, availability, and other essential updates.
